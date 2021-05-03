@@ -1,4 +1,4 @@
-# HealthMe
+# HealthMe (2019)
 <img width="524" alt="healthmelogo" src="https://user-images.githubusercontent.com/31099183/116835715-b0380100-ab91-11eb-9691-26ee3f886046.png">
 
 Creamos una aplicación en iOS usando Swift donde puedes obtener un diagnóstico antes de ver a un médico. Por lo tanto, si antes de ir debe hacerse exámenes, radiografías u otros, no pierdes tu tiempo y dinero yendo al médico para que le diga exactamente esto. Es una plicación móvil que a futuro busca agilizar el proceso de primer consulta o consulta de pre-diagnóstico, la cual te recomienda a qué especialista ir, dóndo, etc.  Esta versión beta utiliza AWS Lex (de [Amazon Machine Learning](https://aws.amazon.com/machine-learning/)) para leer una conversación con un bot y recomendar un pre-diagnóstico. Puedes ver la presentación final [acá](https://www.canva.com/design/DADrpirrtP8/rtW-_HQ1PysikcKyarCq7w/view?utm_content=DADrpirrtP8&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent).
