@@ -5,5 +5,7 @@ Creamos una aplicación en iOS usando Swift donde puedes obtener un diagnóstico
 
 > We created an application in iOS using Swift where you can get a diagnosis prior to seeing a doctor. So, if before you go, you must take tests, X-rays or others, you don'tt waste your time & money going to the doctor to be told just this. It is a mobile application that in the future seeks to speed up the process of the first consultation or pre-diagnosis consultation, and recommends which specialist to go to, where, etc. This beta version uses AWS Lex to read a conversation with a bot and recommend a pre-diagnosis.
 
-![healthme_mockup](https://user-images.githubusercontent.com/31099183/116835722-b5954b80-ab91-11eb-8085-351794a7f350.gif)
 ![healthme_chatbox](https://user-images.githubusercontent.com/31099183/116835718-b29a5b00-ab91-11eb-86ca-64f9e9dac29c.gif)
+
+## Demo
+![healthme_mockup](https://user-images.githubusercontent.com/31099183/116835722-b5954b80-ab91-11eb-8085-351794a7f350.gif)
