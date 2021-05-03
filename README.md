@@ -7,5 +7,5 @@ Creamos una aplicación en iOS usando Swift donde puedes obtener un diagnóstico
 
 ![healthme_chatbox](https://user-images.githubusercontent.com/31099183/116835718-b29a5b00-ab91-11eb-86ca-64f9e9dac29c.gif)
 
-## Demo
+### Demo
 ![healthme_mockup](https://user-images.githubusercontent.com/31099183/116835722-b5954b80-ab91-11eb-8085-351794a7f350.gif)
